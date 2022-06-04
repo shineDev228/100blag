@@ -463,7 +463,7 @@ footer .sb{
     position: relative;
     background-color: rgba(255, 255, 255, 0.767);
     height: min-content;
-    width: 70%;
+    width: 95%;
     border-radius: 2rem;
     padding: 2rem;   
 }
@@ -495,7 +495,7 @@ td, tr{
     border: 0.1rem solid black;
     border-collapse: collapse;
     padding:  1rem;
-    font-size: 2.2rem;
+    font-size: 2rem;
     font-family: 'Recursive', sans-serif;;
 }
 
@@ -604,6 +604,14 @@ tr:nth-child(2n){
     #drinks .foods .food-wrapper{
         width: 29%;
         height: 40rem;
+      }
+
+      .tarif-container{
+          width: 65%;
+      }
+
+      tr,td{
+          font-size: 2.5rem;
       }
 
     
